@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NEW_UbiSpec_ChrisBlaster">
+</Property><Property Name="Solution File" Value="C:\Users\Kramer Lab\Documents\UBIspecSource VChrisBlaster\NEW_UbiSpec_ChrisBlaster.sln">
+</Property><Property Name="Date" Value="Monday, April 25, 2011">
+</Property><Property Name="Time" Value="13:59 PM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="NEW_UbiSpec_ChrisBlaster" Source="NEW_UbiSpec_ChrisBlaster.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="NEW_UbiSpec_ChrisBlaster" Source="NEW_UbiSpec_ChrisBlaster.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="NEW_UbiSpec_ChrisBlaster.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NEW_UbiSpec_ChrisBlaster.sln" Description="Converted">
+</Event></UpgradeLog>

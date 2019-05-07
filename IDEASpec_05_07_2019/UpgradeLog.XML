@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NEW_UbiSpec_04_10_09_b">
+</Property><Property Name="Solution File" Value="C:\nEW_uBI.NET1wtspec\NEW_UbiSpec_04_10_09_b.sln">
+</Property><Property Name="Date" Value="Wednesday, December 09, 2009">
+</Property><Property Name="Time" Value="13:57 PM">
+</Property></Properties><Event ErrorLevel="0" Project="NEW_UbiSpec_04_10_09_b" Source="NEW_UbiSpec_04_10_09_b.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NEW_UbiSpec_04_10_09_b" Source="NEW_UbiSpec_04_10_09_b.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NEW_UbiSpec_04_10_09_b.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NEW_UbiSpec_04_10_09_b.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NEW_UbiSpec_04_10_09_b" Source="NEW_UbiSpec_04_10_09_b.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

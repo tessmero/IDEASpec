@@ -1,0 +1,17 @@
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\bin\NEW_UbiSpec_ChrisBlaster.exe.manifest
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\bin\NEW_UbiSpec_ChrisBlaster.application
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\bin\NEW_UbiSpec_ChrisBlaster.exe
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\bin\NEW_UbiSpec_ChrisBlaster.xml
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.vbproj.ResolveComReference.cache
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.Filter_Wheel_Form.resources
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.Intensity_Form.resources
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.Resources.resources
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.take_a_note.resources
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.DMK_v1.resources
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.vbproj.GenerateResource.Cache
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.exe.manifest
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.application
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.exe
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\obj\Release\NEW_UbiSpec_ChrisBlaster.xml
+C:\Users\Ralph\Documents\UBIspecSource VChrisBlaster\bin\NEW_UbiSpec_ChrisBlaster.exe.config

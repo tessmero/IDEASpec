@@ -1,0 +1,20 @@
+[ResponseResult]
+ResultCode=0
+[Install Progress]
+ Confirm Realtek Driver 
+ Check Operation System Version 
+ OS Information [IsWin2000] = 0
+ OS Information [IsWinXP] = 1
+ OS Information [IsWin2003] = 0
+ OS Information [IsVista] = 0
+ OS Information [IsMCE] = 0
+ OS Information [Service Pack] = 2
+ OS Information [x64] = 0
+ Realtek HD Audio Driver WDM Directory Exist .
+ Microsoft Bus Driver Directory Exist 
+ delete C:\Program Files\Realtek\Audio\InstallShield
+ Copy Microsoft HD Audio QFE from MSHDQFE Directory
+ Copy Realtek HD Audio Driver from WDM Directory
+ Install Microsoft HD Audio QFE File (KB888111xpsp2.exe) 
+ Install Realtek HD Audio Audio Driver 
+ --> SetupAPI result LAAW_PARAMETERS.nLaunchResult = -4

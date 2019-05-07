@@ -1,0 +1,779 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpgradeLog>
+    <Settings>
+        <Setting
+            Name = "LogFile"
+            Value = "coldQ_dmk1.1.log"
+        />
+        <Setting
+            Name = "GenerateInterfacesForClasses"
+            Value = "FALSE"
+        />
+        <Setting
+            Name = "ProjectName"
+            Value = "coldQ_dmk1.1"
+        />
+        <Setting
+            Name = "OutputName"
+            Value = "coldQ_dmk1.1.vbproj"
+        />
+        <Setting
+            Name = "OutputDir"
+            Value = "C:\coldQcopy\ColdQ.NET1"
+        />
+        <Setting
+            Name = "ProjectPath"
+            Value = "C:\coldQcopy\coldQ_dmk1.1.vbp"
+        />
+        <Setting
+            Name = "MigrateProjectTo"
+            Value = "WinExe"
+        />
+    </Settings>
+    <File
+        OldPath = "C:\coldQcopy\test_servo_N2.frm"
+        NewPath = "C:\coldQcopy\ColdQ.NET1\test_servo_N2.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "Check1_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "88B12AE1-6DE0-48A0-86F1-60C0686C026A"
+            >Event Check1.CheckStateChanged may fire when form is initialized.</Issue>
+        </Section>
+        <Section Name = "Command1_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\coldQcopy\dmkversion1.frm"
+        NewPath = "C:\coldQcopy\ColdQ.NET1\dmkversion1.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "outt" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pbversion.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pbservion.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pb_version.</Issue>
+        </Section>
+        <Section Name = "Multi_Trace" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object i.</Issue>
+        </Section>
+        <Section Name = "P_Blast" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object PB_Numm.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object PB_Numm.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Int"
+            >Couldn't resolve default property of object PB_Numm.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ptb0.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ptb0.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ptb1.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ptb1.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ptb2.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ptb2.</Issue>
+        </Section>
+        <Section Name = "Plot_File" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().PEactions.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object PEAZ_HORZANDVERT.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().AllowZooming.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object PEFS_LARGE.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().NullDataValueX.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().NullDataValueY.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().Subsets.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().points.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object ppp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().XData.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().YData.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Plot_Data_X(p).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().XData.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Plot_Data_Y(p).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().YData.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1(Plot_Window).DeskColor.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().GraphBackColor.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1(Plot_Window).GraphForeColor.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().MainTitle.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().SubTitle.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().YAxisLabel.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().XAxisLabel.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().FocalRect.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object SGPM_LINE.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().PlottingMethod.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object PEGLC_NONE.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().GridLineControl.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().SubsetColors.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Pesgo1().PEactions.</Issue>
+        </Section>
+        <Section Name = "Delta" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object temp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Int"
+            >Couldn't resolve default property of object Delta_Data_Y().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Int"
+            >Couldn't resolve default property of object Delta_Data_Y().</Issue>
+        </Section>
+        <Section Name = "smooth" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object temp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object I_File_Name.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Number_columns.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object temp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+        </Section>
+        <Section Name = "Dirk_Save" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_End.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Baseline_Start.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object pp.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object p.</Issue>
+        </Section>
+        <Section Name = "Do_Load_Script" >
+            <Issue
+                Type = "Runtime"
+                Number = "9B7D5ADD-D8FE-4819-A36C-6DEDAF088CC7"
+            >Filter has a new behavior.</Issue>
+        </Section>
+        <Section Name = "Run_DMK_Script_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "9B7D5ADD-D8FE-4819-A36C-6DEDAF088CC7"
+            >Filter has a new behavior.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Number(Loop_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Beg(Loop_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Number(Loop_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Number().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Number().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Beg(Loop_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object L_Number(Loop_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Val"
+            >Couldn't resolve default property of object Array_Value().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Val"
+            >Couldn't resolve default property of object Array_Value().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Val"
+            >Couldn't resolve default property of object Array_Value().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Actinic_Intensity(i).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+                PME = "Str$"
+            >Couldn't resolve default property of object Array_Value().</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Value(Array_Number, Array_Index()).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Value(Array_Number, Array_Index()).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Value(Array_Number, Array_Index()).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Value(Array_Number, Array_Index()).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Max_Index(Array_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Max_Index(Array_Number).</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Array_Value(Array_Number, Array_Index()).</Issue>
+        </Section>
+        <Section Name = "Script_Label_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "9B7D5ADD-D8FE-4819-A36C-6DEDAF088CC7"
+            >Filter has a new behavior.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\coldQcopy\Intensity_Form.frm"
+        NewPath = "C:\coldQcopy\ColdQ.NET1\Intensity_Form.vb"
+        FileType = "Form"
+        Upgraded = "True"
+    >
+        <Section Name = "Command4_Click" >
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object options.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object bip10v.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object c.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Timed_Out.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Time_Out_Time.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Timed_Out.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Timed_Out.</Issue>
+            <Issue
+                Type = "Runtime"
+                Number = "6A50421D-15FE-4896-8A1B-2EC21E9037B2"
+            >Couldn't resolve default property of object Time_Out_Time.</Issue>
+        </Section>
+    </File>
+    <File
+        OldPath = "C:\coldQcopy\ColdQ_N2.bas"
+        NewPath = "C:\coldQcopy\ColdQ.NET1\ColdQ_N2.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    />
+    <File
+        OldPath = "C:\MCC\VBWIN\Cbw.bas"
+        NewPath = "C:\coldQcopy\ColdQ.NET1\Cbw.vb"
+        FileType = "Module"
+        Upgraded = "True"
+    >
+        <Section Name = "cbEnableEvent" >
+            <Issue
+                Type = "Compile"
+                Number = "FAE78A8D-8978-4FD4-8208-5B7324A8F795"
+            >Declaring a parameter 'As Any' is not supported.</Issue>
+        </Section>
+    </File>
+</UpgradeLog>
+

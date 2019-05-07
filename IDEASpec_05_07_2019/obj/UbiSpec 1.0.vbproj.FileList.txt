@@ -1,0 +1,26 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\UbiSpec 1.0.vbproj.ResolveComReference.cache
+obj\Release\UbiSpec 1.0.vbproj.GenerateResource.Cache
+.\bin\UbiSpec.exe.manifest
+.\bin\UbiSpec.application
+.\bin\UbiSpec.exe
+.\bin\UbiSpec.xml
+obj\Release\UbiSpec.DMK_v1.resources
+obj\Release\UbiSpec.Intensity_Form.resources
+obj\Release\UbiSpec.Resources.resources
+obj\Release\UbiSpec.exe.manifest
+obj\Release\UbiSpec.application
+obj\Release\UbiSpec.exe
+obj\Release\UbiSpec.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UbiSpec 1.0.vbproj.ResolveComReference.cache
+obj\Debug\UbiSpec.DMK_v1.resources
+obj\Debug\UbiSpec.Intensity_Form.resources
+obj\Debug\UbiSpec.Resources.resources
+obj\Debug\UbiSpec 1.0.vbproj.GenerateResource.Cache
+obj\Debug\UbiSpec.exe.manifest
+obj\Debug\UbiSpec.application
+obj\Debug\UbiSpec.exe
+obj\Debug\UbiSpec.xml
+obj\Debug\UbiSpec.pdb
+.\bin\UbiSpec.pdb

@@ -1,0 +1,11 @@
+obj\Debug\ColdQ.exe
+obj\Debug\ColdQ.xml
+obj\Debug\ColdQ.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\new_ubi.1.vbproj.ResolveComReference.cache
+obj\Debug\ColdQ.DMK_v1.resources
+obj\Debug\ColdQ.Intensity_Form.resources
+obj\Debug\ColdQ.Resources.resources
+obj\Debug\new_ubi.1.vbproj.GenerateResource.Cache
+obj\Debug\Interop.MSChart20Lib.dll
+obj\Debug\AxInterop.MSChart20Lib.dll

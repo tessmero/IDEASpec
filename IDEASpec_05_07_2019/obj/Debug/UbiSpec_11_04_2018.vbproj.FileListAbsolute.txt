@@ -1,0 +1,46 @@
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\NEW_UbiSpec_ChrisBlaster.exe.config
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\UbiSpec_11_04_2018.vbproj.ResolveComReference.cache
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.exe
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.xml
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.pdb
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\UbiSpec_11_04_2018.vbprojResolveAssemblyReference.cache
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.Filter_Wheel_Form.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.Jabber_jabber.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.Form3.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.Intensity_Form.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.mat_solver.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.Resources.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.take_a_note.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.DMK_v1.resources
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\UbiSpec_11_04_2018.vbproj.GenerateResource.Cache
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\NEW_UbiSpec_ChrisBlaster.exe.manifest
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\NEW_UbiSpec_ChrisBlaster.application
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\NEW_UbiSpec_ChrisBlaster.exe
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\NEW_UbiSpec_ChrisBlaster.pdb
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\NEW_UbiSpec_ChrisBlaster.xml
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\bin\ChrisBlasterWindowsHost.dll
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.exe.manifest
+C:\Users\Kramer Lab\Documents\IDEASpec_11_4_2018\obj\Debug\NEW_UbiSpec_ChrisBlaster.application
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\NEW_UbiSpec_ChrisBlaster.exe.config
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\UbiSpec_11_04_2018.vbproj.ResolveComReference.cache
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.exe
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.xml
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.pdb
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\UbiSpec_11_04_2018.vbprojResolveAssemblyReference.cache
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.Filter_Wheel_Form.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.Jabber_jabber.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.Form3.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.Intensity_Form.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.mat_solver.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.Resources.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.take_a_note.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.DMK_v1.resources
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\UbiSpec_11_04_2018.vbproj.GenerateResource.Cache
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\NEW_UbiSpec_ChrisBlaster.exe.manifest
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\NEW_UbiSpec_ChrisBlaster.application
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\NEW_UbiSpec_ChrisBlaster.exe
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\NEW_UbiSpec_ChrisBlaster.pdb
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\NEW_UbiSpec_ChrisBlaster.xml
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\bin\ChrisBlasterWindowsHost.dll
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.exe.manifest
+C:\Users\Kramer Lab\Desktop\IDEASpec_04_27_2019 with JSON merged with AK 2\obj\Debug\NEW_UbiSpec_ChrisBlaster.application

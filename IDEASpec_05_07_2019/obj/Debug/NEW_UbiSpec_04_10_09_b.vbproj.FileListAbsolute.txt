@@ -1,0 +1,44 @@
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_04_10_09_b.vbproj.ResolveComReference.cache
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.exe
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.xml
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.pdb
+C:\nEW_uBI.NET1wtspec\bin\NEW_UbiSpec_03_20_08.exe.manifest
+C:\nEW_uBI.NET1wtspec\bin\NEW_UbiSpec_03_20_08.application
+C:\nEW_uBI.NET1wtspec\bin\NEW_UbiSpec_03_20_08.exe
+C:\nEW_uBI.NET1wtspec\bin\NEW_UbiSpec_03_20_08.pdb
+C:\nEW_uBI.NET1wtspec\bin\NEW_UbiSpec_03_20_08.xml
+C:\nEW_uBI.NET1wtspec\obj\Debug\ResolveAssemblyReference.cache
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.Filter_Wheel_Form.resources
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.Intensity_Form.resources
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.Resources.resources
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.DMK_v1.resources
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.take_a_note.resources
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_04_10_09_b.vbproj.GenerateResource.Cache
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.exe.manifest
+C:\nEW_uBI.NET1wtspec\obj\Debug\NEW_UbiSpec_03_20_08.application
+C:\UBIspec v2.1\obj\Debug\NEW_UbiSpec_04_10_09_b.vbproj.ResolveComReference.cache
+C:\UBIspec v2.1\obj\Debug\NEW_UbiSpec_03_20_08.exe
+C:\UBIspec v2.1\obj\Debug\NEW_UbiSpec_03_20_08.xml
+C:\UBIspec v2.1\obj\Debug\NEW_UbiSpec_03_20_08.pdb
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_04_10_09_b.vbproj.ResolveComReference.cache
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.exe
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.xml
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.pdb
+C:\UBIspecSource v2.1\bin\NEW_UbiSpec_03_20_08.exe.manifest
+C:\UBIspecSource v2.1\bin\NEW_UbiSpec_03_20_08.application
+C:\UBIspecSource v2.1\bin\NEW_UbiSpec_03_20_08.exe
+C:\UBIspecSource v2.1\bin\NEW_UbiSpec_03_20_08.pdb
+C:\UBIspecSource v2.1\bin\NEW_UbiSpec_03_20_08.xml
+C:\UBIspecSource v2.1\obj\Debug\ResolveAssemblyReference.cache
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.Filter_Wheel_Form.resources
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.Intensity_Form.resources
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.Resources.resources
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.DMK_v1.resources
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.take_a_note.resources
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_04_10_09_b.vbproj.GenerateResource.Cache
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.exe.manifest
+C:\UBIspecSource v2.1\obj\Debug\NEW_UbiSpec_03_20_08.application
+C:\Documents and Settings\Chris\My Documents\MultiSpec Developement\UBIspecSource v2.1.2\obj\Debug\NEW_UbiSpec_04_10_09_b.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Chris\My Documents\MultiSpec Developement\UBIspecSource v2.1.2\obj\Debug\NEW_UbiSpec_03_20_08.exe
+C:\Documents and Settings\Chris\My Documents\MultiSpec Developement\UBIspecSource v2.1.2\obj\Debug\NEW_UbiSpec_03_20_08.xml
+C:\Documents and Settings\Chris\My Documents\MultiSpec Developement\UBIspecSource v2.1.2\obj\Debug\NEW_UbiSpec_03_20_08.pdb
