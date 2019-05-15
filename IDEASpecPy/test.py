@@ -1,6 +1,8 @@
 # Test the functions in IDEASpecPy
 # These tests are designed to emulate the way the module is used in the example notebook
 
+import sys
+import os
 
 # "install" the module and import items
 
