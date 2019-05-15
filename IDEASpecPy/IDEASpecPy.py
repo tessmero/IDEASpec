@@ -125,31 +125,22 @@ def generateCombinedJSON (baseFileName):
             
 
 def recalcAbsUsingBurnInProfile (df, wavelengths,  I_suffix, burn_in_profile, burn_in_suffix, burn_in_index, I0_trace=0, I0_points=[-1,-1], newSuffix='_rDA'):
-#     if (I0_points[0] == I0_points[1]):
-#         I0_points[1]=I0_points[0]+1
-"""
-#                 Recalculates the Abs data using a particular set of I0 points
-#                 and a separately measured "burn in" profile. 
-                
-#                 for example, 
-
-#                 recalcAbsUsingBurnInProfile (sample_df, ['475', '488', '505', '520', '535', '545'], '_I', 
-#                     burn_in_profile, '_I', [0,1], '_rDA'):
-
-#                 burn_in_profile points to a location in a dataframe containing traces taken with the same protocol, but 
-#                 without a photosynthetically active sample, e.g. a sheet of green paper. 
-
-#                 New columns with named wavelength + newSuffix (in this case '_rDA') will be generated and attached to the 
-#                 dataframe
-#                 
-
-#     """
-
+    """
+    #                 Recalculates the Abs data using a particular set of I0 points
+    #                 and a separately measured "burn in" profile. 
+    #                 for example, 
+    #                 recalcAbsUsingBurnInProfile (sample_df, ['475', '488', '505', '520', '535', '545'], '_I', 
+    #                     burn_in_profile, '_I', [0,1], '_rDA'):
+    #                 burn_in_profile points to a location in a dataframe containing traces taken with the same protocol, but 
+    #                 without a photosynthetically active sample, e.g. a sheet of green paper. 
+    #                 New columns with named wavelength + newSuffix (in this case '_rDA') will be generated and attached to the 
+    #                 dataframe                
+    """
     for wli in wavelengths:  # generate new columns to hold objects
         wl=str(wli)
         df[wl + newSuffix] = 0
         df[wl + newSuffix] = df[wl + newSuffix].astype('object')
-
+        
     for t in range(len(df)): 
         for wli in wavelengths:
             wl=str(wli)
@@ -159,8 +150,8 @@ def recalcAbsUsingBurnInProfile (df, wavelengths,  I_suffix, burn_in_profile, bu
             Iz = np.array(df[wl+ I_suffix][I0_trace])
             if (I0_points[0]>-1):    # if negative number is input, do not do 
                 I = I/np.mean(Iz[I0_points[0]:I0_points[1]])
-#             elif (I[0]<0):
-#                 I=-1*I
+    #             elif (I[0]<0):
+    #                 I=-1*I
             daTrace = -1*np.log10(I/I0) #np.array(df[wl+ '_I'][t][0]))
             
             df[wl + newSuffix][t] = daTrace #[trim_points[0]:trim_points[1]]
@@ -212,12 +203,12 @@ def recalcAbsUsingBurnInProfile (df, wavelengths,  I_suffix, burn_in_profile, bu
 
 def subtractBaseline(sample_df,wavelengths, suffix, AvPoints):
 
-"""
-The subtraceBaseline funciton adds a set of traces where the baseline is subtracted. The baseline MUST BE
-the same trace EXCEPT that no catinic was changed AND it is saved with a specific label, e.g. "baseline". 
-The wavelengths paramter is a list of the wavelengths upon which traces to subtract.
-The suffix paramter is the suffix for the traces of interest (e.g. '_calc') 
-"""
+    """
+    The subtraceBaseline funciton adds a set of traces where the baseline is subtracted. The baseline MUST BE
+    the same trace EXCEPT that no catinic was changed AND it is saved with a specific label, e.g. "baseline". 
+    The wavelengths paramter is a list of the wavelengths upon which traces to subtract.
+    The suffix paramter is the suffix for the traces of interest (e.g. '_calc') 
+    """
 
 
     #plt.figure()
@@ -234,15 +225,15 @@ from scipy.optimize import curve_fit #see the following link for info on curve_f
 
 def fit_burn(x,a,b,c):
     
-"""
-    Function for fitting absorbance traces to a funciton to account for 
-    I will fit the baseline with a hyperbolic or exponential
-    
-    a is the amplitude of the burn-in
-    b is the time constant
-    c is the offset
+    """
+        Function for fitting absorbance traces to a funciton to account for 
+        I will fit the baseline with a hyperbolic or exponential
+        
+        a is the amplitude of the burn-in
+        b is the time constant
+        c is the offset
 
-"""
+    """
 
     fit_burn = c + a/(1+x/b)
     return (fit_burn)
