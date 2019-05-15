@@ -9,4 +9,4 @@ install:
   - pip install pandas
   - pip install scipy
 script:
-  - python IDEASpecPy/test.py
+  - python test.py

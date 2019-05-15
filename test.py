@@ -14,11 +14,11 @@ import IDEASpecPy as Ipy
 
 # test the function generateCombinedJSON
 # assert that outputs are compatible with pd.read_json
-baseFileName = './example_data/col-0_3g-simple_1'
+baseFileName = './IDEASpecPy/example_data/col-0_3g-simple_1'
 Ipy.generateCombinedJSON(baseFileName)
 sample_df=pd.read_json(baseFileName + '_combined.json') 
 
-burnInFileName = './example_data/card3_3g-simple_1'
+burnInFileName = './IDEASpecPy/example_data/card3_3g-simple_1'
 Ipy.generateCombinedJSON(burnInFileName)
 burn_in_profile=pd.read_json(burnInFileName + '_combined.json') 
 
