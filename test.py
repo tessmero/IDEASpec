@@ -25,6 +25,7 @@ burn_in_profile=pd.read_json(burnInFileName + '_combined.json')
 
 
 # test the function smoothTraces
+wavelengths=[475,488,505,520,535,545]
 Ipy.smoothTraces(sample_df, wavelengths, '_I', 31, '_smooth')
 Ipy.smoothTraces(burn_in_profile, wavelengths, '_I', 31, '_smooth')
 
