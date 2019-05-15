@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 from scipy.signal import savgol_filter
 from scipy.optimize import curve_fit #see the following link for info on curve_fit
 

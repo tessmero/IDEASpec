@@ -5,6 +5,7 @@
 
 import sys
 import os
+import pandas as pd
 
 # "install" the module and import items
 folder_that_contains_code="./IDEASpecPy/"
