@@ -11,8 +11,6 @@ folder_that_contains_code="./IDEASpecPy/"
 sys.path.append(os.path.abspath(folder_that_contains_code))
 import IDEASpecPy as Ipy
 
-# DEBUG check that tests fail on exceptions
-raise Exception("test")
 
 # test the function generateCombinedJSON
 # assert that outputs are compatible with pd.read_json
